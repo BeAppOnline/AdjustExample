@@ -1,5 +1,7 @@
 # AdjustEvent
  
+[![](https://jitpack.io/v/BeAppOnline/AdjustExample.svg)](https://jitpack.io/#BeAppOnline/AdjustExample)
+
 To get a Git project into your build:
 
 * Step 1 Add the JitPack repository to your build file
